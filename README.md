@@ -97,23 +97,7 @@ The main objective of this project is to analyze COVID-19 trends using a self-ge
 * Active cases depend heavily on recovery trends
 
 
-**How to Run the Project**
 
-**Step 1: Install Required Libraries**
-
-pip install pandas numpy matplotlib seaborn faker plotly
-
-
-**Step 2: Run the Project**
-
-* Google Colab
-* Jupyter Notebook
-* VS Code
-
- **Step 3: Output**
-
-
-covid_19_dataset.csv
 
 
 **Future Improvements**

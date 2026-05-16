@@ -1,4 +1,4 @@
- **COVID-19 Data Analysis & Dashboard System** 
+COVID-19 DATA ANALYSIS & DASHBOARD SYSTEM (KAGGLE DATASET) 
 
  **Project Overview**
 

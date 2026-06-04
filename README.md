@@ -115,6 +115,8 @@ The main objective of this project is to analyze COVID-19 trends using a self-ge
 <img width="710" height="606" alt="image" src="https://github.com/user-attachments/assets/e3d3de39-bd04-4088-9fa8-10d1198eb66a" />
 
 <img width="758" height="563" alt="image" src="https://github.com/user-attachments/assets/b7a808ce-5199-44ab-8047-ae6cda839d44" />
+<img width="1755" height="892" alt="image" src="https://github.com/user-attachments/assets/3fdf5e22-a7ac-44fd-a9f8-577d05e55491" />
+
 
 
  **Conclusion**
